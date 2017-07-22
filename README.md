@@ -1,2 +1,3 @@
 # spider-on-node
-nodejs爬取必应美图
+采用原生 nodejs http爬取必应美图
+
