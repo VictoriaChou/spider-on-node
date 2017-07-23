@@ -1,0 +1,31 @@
+{
+  "name": "spider-on-node",
+  "version": "1.0.0",
+  "description": "a spider to obtain pictures from Bing.",
+  "main": "index.jsx",
+  "dependencies": {
+    "dnd": "^0.1.0",
+    "react": "^15.6.1",
+    "react-dnd": "^2.4.0",
+    "react-dnd-html5-backend": "^2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictoriaChou/spider-on-node.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react",
+    "reactdnd"
+  ],
+  "author": "VictoriaChou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VictoriaChou/spider-on-node/issues"
+  },
+  "homepage": "https://github.com/VictoriaChou/spider-on-node#readme"
+}
