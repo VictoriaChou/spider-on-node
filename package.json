@@ -5,6 +5,7 @@
   "main": "index.jsx",
   "dependencies": {
     "dnd": "^0.1.0",
+    "node-schedule": "^1.2.3",
     "react": "^15.6.1",
     "react-dnd": "^2.4.0",
     "react-dnd-html5-backend": "^2.4.1"
